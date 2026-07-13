@@ -30,9 +30,9 @@ My workflow is built around **smart modeling practices**: producing clean topolo
 
 ### Tools & Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,ps" height="48px" style="vertical-align: middle;" />
-  <img src="https://avatars.githubusercontent.com/u/45136877?s=200&v=4" height="48px" style="border-radius: 10px; margin-left: 4px; margin-right: 4px; vertical-align: middle;" alt="Quixel Mixer" />
-  <img src="https://skillicons.dev/icons?i=github" height="48px" style="vertical-align: middle;" />
+  <a><img src="https://skillicons.dev/icons?i=blender,ps" height="48px" style="vertical-align: middle;" /></a>
+  <a><img src="https://avatars.githubusercontent.com/u/45136877?s=200&v=4" height="48px" style="border-radius: 10px; margin-left: 4px; margin-right: 4px; vertical-align: middle;" alt="Quixel Mixer" /></a>
+  <a><img src="https://skillicons.dev/icons?i=github" height="48px" style="vertical-align: middle;" /></a>
 </p>
 
 ---
