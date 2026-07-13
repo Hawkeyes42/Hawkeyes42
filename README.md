@@ -29,7 +29,11 @@ My workflow is built around **smart modeling practices**: producing clean topolo
 * **Structural Layouts & MLO Design:** Proper portal setup, room definition, and clean collisions (ycol) for flawless player interaction.
 
 ### Tools & Software
-<p><img src="https://skillicons.dev/icons?i=blender,ps" height="48px" style="vertical-align: middle;" /> <img src="https://avatars.githubusercontent.com/u/45136877?s=200&v=4" height="48px" style="border-radius: 10px; vertical-align: middle;" /> <img src="https://skillicons.dev/icons?i=github" height="48px" style="vertical-align: middle;" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,ps" height="48px" style="vertical-align: middle;" />
+  <img src="https://avatars.githubusercontent.com/u/45136877?s=200&v=4" height="48px" style="border-radius: 10px; margin-left: 4px; margin-right: 4px; vertical-align: middle;" alt="Quixel Mixer" />
+  <img src="https://skillicons.dev/icons?i=github" height="48px" style="vertical-align: middle;" />
+</p>
 
 ---
 
