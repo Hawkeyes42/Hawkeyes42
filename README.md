@@ -25,33 +25,10 @@
 
 ## 🩸 About Me
 
-<table>
-<tr>
-<td width="70%" valign="top">
-
 I'm a **3D Artist** and **Level Designer** based in Italy, specializing in environmental design, advanced asset creation, and technical optimization for **GTA V** and **FiveM**.  
 As a core member of the <a href="https://discord.gg/6sTEKB83xp"><b>3DR Mapping</b></a> team, I focus on the visual experience while maintaining rigorous technical standards.
 
 My workflow is built around **smart modeling practices**: producing clean topology, eliminating redundant geometry, and ensuring all assets are fully optimized for real-time rendering. I bridge the gap between high-end visual quality and game-engine performance.
-
-</td>
-<td width="30%" valign="top" align="center">
-
-```
-   ▄████▄  ▄▄▄█████▓
-  ▒██▀ ▀█  ▓  ██▒ ▓▒
-  ▒▓█    ▄ ▒ ▓██░ ▒░
-  ▒▓▓▄ ▄██▒░ ▓██▓ ░ 
-  ▒ ▓███▀ ░  ▒██▒ ░ 
-  ░ ░▒ ▒  ░  ▒ ░░   
-    ░  ▒       ░    
-  ░               
-  ░ ░             
-```
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F0404,100:9E1212&height=3&width=100%" width="100%">
 
@@ -69,7 +46,7 @@ My workflow is built around **smart modeling practices**: producing clean topolo
 
 ## 🔥 Technical Specialization
 
-<table>
+<table width="100%">
 <tr><td width="45px" align="center">🧩</td><td><b>Smart 3D Modeling & Topology</b><br><sub>Clean, production-ready wireframes. Efficient polygon distribution, eliminating unnecessary geometry/n-gons while preserving high-fidelity silhouettes.</sub></td></tr>
 <tr><td align="center">⚙️</td><td><b>Engine Optimization</b><br><sub>Strict drawcall management, texture budget control (atlasing), and LOD creation to prevent texture loss and frame drops on FiveM servers.</sub></td></tr>
 <tr><td align="center">🎨</td><td><b>Texturing & PBR Workflows</b><br><sub>High-quality PBR material creation (Albedo, Normal, Roughness, Specular) optimized specifically for the GTA V shading system.</sub></td></tr>
